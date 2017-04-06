@@ -1,7 +1,9 @@
 package io.heroku.demo.domain;
 
 import org.springframework.data.annotation.Id;
+import org.springframework.data.redis.core.RedisHash;
 
+@RedisHash("students")
 public class Student {
 	private String firstName;
 	private String lastName;

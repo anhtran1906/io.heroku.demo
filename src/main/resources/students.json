@@ -1,0 +1,20 @@
+[
+	{
+		"_class": "io.heroku.demo.domain.Student",
+		"emailAddress" : "johndoe@nowhere.com",
+		"firstName" : "John",
+		"lastName" : "Doe"
+	},
+	{
+		"_class": "io.heroku.demo.domain.Student",
+		"emailAddress" : "jane@somewhere.com",
+		"firstName" : "Jane",
+		"lastName" : "Smith"
+	},
+	{
+		"_class": "io.heroku.demo.domain.Student",
+		"emailAddress" : "bobevans@someplace.com",
+		"firstName" : "Bob",
+		"lastName" : "Evans"
+	}
+]
